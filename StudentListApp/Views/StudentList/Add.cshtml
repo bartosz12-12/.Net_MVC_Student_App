@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Add";
+    var errorMessage = TempData["ErrorMessage"] as string;
+
+}
+
+@model StudentListApp.Models.Student.AddStudent
+
+
+<div class="text-center">
+    <h1 class="display-4">Add Student</h1>
+</div>
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @errorMessage
+    </div>
+}
+<form method="post">
+    <div class="mt-3">
+        <label class="form-label">Name</label>
+        <input required type="text" class="form-control" asp-for="Name" />
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState.ContainsKey(nameof(Model.Name)))
+        {
+            <div class="text-danger">
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        }
+    </div>
+    <div class="mt-3">
+        <label class="form-label">Last Name</label>
+        <input required type="text" class="form-control" asp-for="LastName" />
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState.ContainsKey(nameof(Model.LastName)))
+        {
+            <div class="text-danger">
+                @Html.ValidationMessageFor(model => model.LastName)
+            </div>
+        }
+    </div>
+    <div class="mt-3">
+        <label class="form-label">Nr Index</label>
+        <input required type="number" class="form-control" asp-for="NrIndex" />
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState.ContainsKey(nameof(Model.NrIndex)))
+        {
+            <div class="text-danger">
+                @Html.ValidationMessageFor(model => model.NrIndex)
+            </div>
+        }
+    </div>
+
+    <div class="mt-3">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+</form>
+

@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|c:\\users\\barte\\desktop\\net_mvc\\studentlistapp\\studentlistapp\\views\\zajecia\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|solutionrelative:studentlistapp\\views\\zajecia\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|c:\\users\\barte\\desktop\\net_mvc\\studentlistapp\\studentlistapp\\controllers\\zajeciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|solutionrelative:studentlistapp\\controllers\\zajeciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|c:\\users\\barte\\desktop\\net_mvc\\studentlistapp\\studentlistapp\\views\\studentlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|solutionrelative:studentlistapp\\views\\studentlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|c:\\users\\barte\\desktop\\net_mvc\\studentlistapp\\studentlistapp\\views\\zajecia\\addstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|solutionrelative:studentlistapp\\views\\zajecia\\addstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|c:\\users\\barte\\desktop\\net_mvc\\studentlistapp\\studentlistapp\\controllers\\studentlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|solutionrelative:studentlistapp\\controllers\\studentlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|c:\\users\\barte\\desktop\\net_mvc\\studentlistapp\\studentlistapp\\views\\zajecia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|solutionrelative:studentlistapp\\views\\zajecia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|c:\\users\\barte\\desktop\\net_mvc\\studentlistapp\\studentlistapp\\models\\student\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|solutionrelative:studentlistapp\\models\\student\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|c:\\users\\barte\\desktop\\net_mvc\\studentlistapp\\studentlistapp\\models\\oceny\\ocena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC697C09-2842-408A-B817-F64B1DFA1A05}|StudentListApp\\StudentListApp.csproj|solutionrelative:studentlistapp\\models\\oceny\\ocena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Views\\Zajecia\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentListApp\\Views\\Zajecia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Views\\Zajecia\\Index.cshtml",
+              "RelativeToolTip": "StudentListApp\\Views\\Zajecia\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T11:43:16.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentListController.cs",
+              "DocumentMoniker": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Controllers\\StudentListController.cs",
+              "RelativeDocumentMoniker": "StudentListApp\\Controllers\\StudentListController.cs",
+              "ToolTip": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Controllers\\StudentListController.cs",
+              "RelativeToolTip": "StudentListApp\\Controllers\\StudentListController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAgwHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:41:53.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Views\\StudentList\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentListApp\\Views\\StudentList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Views\\StudentList\\Index.cshtml",
+              "RelativeToolTip": "StudentListApp\\Views\\StudentList\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T11:32:49.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZajeciaController.cs",
+              "DocumentMoniker": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Controllers\\ZajeciaController.cs",
+              "RelativeDocumentMoniker": "StudentListApp\\Controllers\\ZajeciaController.cs",
+              "ToolTip": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Controllers\\ZajeciaController.cs",
+              "RelativeToolTip": "StudentListApp\\Controllers\\ZajeciaController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAQwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:34:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Views\\Zajecia\\AddStudents.cshtml",
+              "RelativeDocumentMoniker": "StudentListApp\\Views\\Zajecia\\AddStudents.cshtml",
+              "ToolTip": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Views\\Zajecia\\AddStudents.cshtml",
+              "RelativeToolTip": "StudentListApp\\Views\\Zajecia\\AddStudents.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T09:33:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Views\\Zajecia\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentListApp\\Views\\Zajecia\\Details.cshtml",
+              "ToolTip": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Views\\Zajecia\\Details.cshtml",
+              "RelativeToolTip": "StudentListApp\\Views\\Zajecia\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T09:31:21.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Models\\Student\\StudentModel.cs",
+              "RelativeDocumentMoniker": "StudentListApp\\Models\\Student\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Models\\Student\\StudentModel.cs",
+              "RelativeToolTip": "StudentListApp\\Models\\Student\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:28:28.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ocena.cs",
+              "DocumentMoniker": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Models\\Oceny\\Ocena.cs",
+              "RelativeDocumentMoniker": "StudentListApp\\Models\\Oceny\\Ocena.cs",
+              "ToolTip": "C:\\Users\\barte\\Desktop\\NEt_MVC\\StudentListApp\\StudentListApp\\Models\\Oceny\\Ocena.cs",
+              "RelativeToolTip": "StudentListApp\\Models\\Oceny\\Ocena.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:28:12.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

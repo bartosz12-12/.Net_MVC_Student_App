@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Lista Zajęć";
+}
+
+@model List<StudentListApp.Models.Zajecia.ZajeciaModel>
+
+
+<div class="text-center">
+    <h1 class="display-4">Lista Zajęć</h1>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Ects</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr onclick="location.href='@Url.Action("Details", "Zajecia", new { id = item.Id })';" style="cursor:pointer;">
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Ects</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a class="btn btn-primary" asp-area="" asp-controller="Zajecia" asp-action="Add">Add</a>

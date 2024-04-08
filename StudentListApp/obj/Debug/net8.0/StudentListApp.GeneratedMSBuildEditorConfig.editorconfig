@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentListApp
+build_property.RootNamespace = StudentListApp
+build_property.ProjectDir = C:\Users\barte\Desktop\NEt_MVC\StudentListApp\StudentListApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\barte\Desktop\NEt_MVC\StudentListApp\StudentListApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/StudentList/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudExpc3RcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/StudentList/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudExpc3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/StudentList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudExpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/StudentList/Oceny.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudExpc3RcT2NlbnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/Zajecia/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFqZWNpYVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/Zajecia/AddStudents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFqZWNpYVxBZGRTdHVkZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/Zajecia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFqZWNpYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/Zajecia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFqZWNpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barte/Desktop/NEt_MVC/StudentListApp/StudentListApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-toxb6guyzv
