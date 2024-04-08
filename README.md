@@ -1,6 +1,6 @@
 # Aplikacja do zarządzania studentami napisana w technologi .Net MVC 
 # Aplikacja pozwala na proste operacje na studentach 
-# Dodawanie edytowanie usuwanie i przydzielanie do zajęć 
+# Dodawanie edytowanie usuwanie 
 
 ![image](https://github.com/bartosz12-12/.Net_MVC_Student_App/assets/73654110/823b92df-e854-4675-b29a-63b17ec8cf9d)
 
