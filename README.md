@@ -4,7 +4,7 @@
 
 ![image](https://github.com/bartosz12-12/.Net_MVC_Student_App/assets/73654110/823b92df-e854-4675-b29a-63b17ec8cf9d)
 
-Aplikacja jest zabezpieczona przed wprowadzaniem złych danych 
+## Aplikacja jest zabezpieczona przed wprowadzaniem złych danych 
 ![image](https://github.com/bartosz12-12/.Net_MVC_Student_App/assets/73654110/ea88de29-0ffb-4f37-a2c0-6e197b3c911d)
 
 # Tworzenie nowych zajęć i przypisywanie do nich studentów 
