@@ -14,3 +14,4 @@
 ## Przypisywanie studentów odbywa się przy pomocy listy która umożliwia dodanie kilku studentów na raz 
 ![image](https://github.com/bartosz12-12/.Net_MVC_Student_App/assets/73654110/4d6aba3d-21c6-475b-96f4-7c17bd6e524b)
 ![image](https://github.com/bartosz12-12/.Net_MVC_Student_App/assets/73654110/be44324f-06fa-44b9-87a1-a7a3d9e98fd7)
+
